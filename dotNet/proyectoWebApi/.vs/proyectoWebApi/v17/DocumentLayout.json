@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|b:\\desarrollo\\planangnet\\dotnet\\proyectowebapi\\proyectowebapi\\datalayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\datalayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|b:\\desarrollo\\planangnet\\dotnet\\proyectowebapi\\proyectowebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|b:\\desarrollo\\planangnet\\dotnet\\proyectowebapi\\proyectowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|b:\\desarrollo\\planangnet\\dotnet\\proyectowebapi\\proyectowebapi\\datalayer\\webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\datalayer\\webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|b:\\desarrollo\\planangnet\\dotnet\\proyectowebapi\\proyectowebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2A9AA2-7718-4E75-8D45-B7D441B62826}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\Program.cs",
+              "ToolTip": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\Program.cs",
+              "RelativeToolTip": "proyectoWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:28:47.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "proyectoWebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAhwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T02:04:24.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\DataLayer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\DataLayer\\Models\\Product.cs",
+              "ToolTip": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\DataLayer\\Models\\Product.cs",
+              "RelativeToolTip": "proyectoWebApi\\DataLayer\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:48:57.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "proyectoWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T02:01:17.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiContext.cs",
+              "DocumentMoniker": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\DataLayer\\WebApiContext.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\DataLayer\\WebApiContext.cs",
+              "ToolTip": "B:\\Desarrollo\\PlanAngNet\\dotNet\\proyectoWebApi\\proyectoWebApi\\DataLayer\\WebApiContext.cs",
+              "RelativeToolTip": "proyectoWebApi\\DataLayer\\WebApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:52:24.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
